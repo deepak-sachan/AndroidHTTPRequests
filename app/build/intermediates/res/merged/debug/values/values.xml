@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Android%20Studio%20Projects/AndroidHTTPRequests/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">AndroidHTTPRequests</string>
+    <string name="hello">Hello World, AndroidHTTPRequestsActivity!</string>
+</resources>
